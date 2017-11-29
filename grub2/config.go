@@ -36,7 +36,7 @@ const (
 
 	defaultDefaultEntry = 0
 	defaultEnableTheme  = true
-	defaultResolution   = "auto"
+	defaultResolution   = "3840x2160,2560x1440,1920x1080,auto"
 	defaultTimeout      = 5
 )
 
